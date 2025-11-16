@@ -6,6 +6,9 @@ This repo provides client apps for testing the five Ktor Client Engines: Apache5
 
 Each client app is designed to make an external call to a website and return the result.  Currently hard coded to ping a local Tomcat instance running the web application from this repository https://github.com/dhilpipre/RandomlySlow-Webapp   
 
+### Running
+Easiest way to run each client is to import the project into IntelliJ and run the client using IntelliJ   
+   
 ## Contributing 🤝
 
 Feel free to open a issue or submit a pull request for any bugs/improvements.
